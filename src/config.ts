@@ -14,8 +14,8 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
+    name: "Abdessalam El Moussaoui",
+    profession: "Sysadmin | DevOps | Software Developer",
     profileImage: "pp2.png",
     profileFacts: [
         {
